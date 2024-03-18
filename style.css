@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.top__bar {
+  background-color: #010d27;
+  color: aliceblue;
+}
+
+.hero {
+  background-image: url(https://platinumlist.net/guide/wp-content/uploads/2023/03/IMG-worlds-of-adventure.webp);
+}
+
+.parts {
+  background-color: blue;
+}
+
+.why__sell {
+  background-color: aqua;
+}
+
+footer {
+  background-color: blueviolet;
+}
